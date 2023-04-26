@@ -6,3 +6,5 @@
 ![My Image](images/02_create-cli.png)
 ![My Image](images/03_other-cli.png)
 ![My Image](images/04_create-python.png)
+![My Image](images/05_loading-python.png)
+![My Image](images/06_querying-python.png)
